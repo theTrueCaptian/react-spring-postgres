@@ -1,0 +1,63 @@
+src/main/database-connections/
+tmp/
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+src/main/resources/mergecsv-app/node_modules
+src/main/resources/mergecsv-app/.pnp
+src/main/resources/mergecsv-app/.pnp.js
+
+# testing
+src/main/resources/mergecsv-app/coverage
+
+# production
+src/main/resources/mergecsv-app/build
+
+# misc
+src/main/resources/mergecsv-app/.DS_Store
+src/main/resources/mergecsv-app/.env.local
+src/main/resources/mergecsv-app/.env.development.local
+src/main/resources/mergecsv-app/.env.test.local
+src/main/resources/mergecsv-app/.env.production.local
+
+src/main/resources/mergecsv-app/npm-debug.log*
+src/main/resources/mergecsv-app/yarn-debug.log*
+src/main/resources/mergecsv-app/yarn-error.log*
+
+src/main/resources/mergecsv-app/merge-csv-react.zip
+src/main/resources/mergecsv-app/build/
+src/main/resources/mergecsv-app/node_modules/
