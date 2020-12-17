@@ -57,6 +57,7 @@ src/main/resources/mergecsv-app/.env.production.local
 src/main/resources/mergecsv-app/npm-debug.log*
 src/main/resources/mergecsv-app/yarn-debug.log*
 src/main/resources/mergecsv-app/yarn-error.log*
+src/main/resources/mergecsv-app/yarn.lock
 
 src/main/resources/mergecsv-app/merge-csv-react.zip
 src/main/resources/mergecsv-app/build/
